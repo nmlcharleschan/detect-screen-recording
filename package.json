@@ -1,0 +1,21 @@
+{
+    "description": "Ionic Native - Native plugins for ionic apps",
+    "main": "bundle.js",
+    "module": "index.js",
+    "typings": "index.d.ts",
+    "author": "nml",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nmlcharleschan/detect-screen-recording.git"
+    },
+    "name": "@ionic-native/detect-screen-recording",
+    "dependencies": {
+        "@types/cordova": "latest"
+    },
+    "peerDependencies": {
+        "rxjs": "^5.5.0 || ^6.5.0",
+        "@ionic-native/core": "^5.1.0"
+    },
+    "version": "1.0.0"
+}
